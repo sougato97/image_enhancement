@@ -1,5 +1,5 @@
 #  Image Enhancement for Unconstrained Environments 
-We worked on image denoising and exposure correction. Our method is to use a suitable generative neural network, train it on custom version of a public dataset and then evaluate it on different datasets. Our results show that the training the model on our custom data helped it to maintain exposure as well as preserve features in a better way. Our paper has been accepted and is to be published in the IEEE Xplore. I will share the link once its finalized. 
+We worked on image denoising and exposure correction. Our method is to use a suitable generative neural network, train it on a custom version of a public dataset, and then evaluate it on different datasets. Our results show that training the model on our custom data helped it to maintain exposure as well as preserve features in a better way. Our paper has been accepted and is to be published in the IEEE Xplore. I will share the link once its finalized.
 
 ## Video demostration
 <a href="https://youtu.be/SIXKh6Qd0nI">
