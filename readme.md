@@ -25,7 +25,7 @@ I have presented my paper at the 2023 Western New York Image and Signal Processi
   <img src="https://github.com/sougato97/image_enhancement/blob/master/datasets/pepper/low/2.png" width="300" /> 
 </p>
 <br>
-Images in the bottom were fed into different models for image enhancement. The top two images are from our custom model, and the images in 2nd row are from the LLFLow author's smallNet model. We found the smallNet variant to be performing better than the other pretrained ones. Its evident that the custom model handles exposure better and also preserves more features. Our results are verified in the experimental results section in the ppt/video demo/paper(to be shared). 
+Images in the bottom row were fed into different models for image enhancement. The top two images are from our custom model, and the images in 2nd row are from the LLFLow author's smallNet model. We found the smallNet variant to be performing better than the other pretrained ones. Its evident that the custom model handles exposure better and also preserves more features. Our results are verified in the experimental results section in the ppt/video demo/paper(to be shared). 
 
 ## Referred Codebases
 [LLFLOW](https://github.com/wyf0912/LLFlow) <br>
