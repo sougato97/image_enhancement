@@ -1,0 +1,18 @@
+datasets/LOLdataset/
+datasets/mirflickr*
+datasets/VE-LOL*
+datasets/annotations/
+LLFlow/experiments/
+LLFlow/images/
+LLFlow/LICENSES/
+create_dataset/__pycache__
+UnprocessDenoising_PyTorch/
+unprocessing/
+# Discard all the trained models
+*.pth
+# Discard all the cache folders 
+**/__pycache__/
+# *.png
+# *.jpg
+*.zip
+*.txt
